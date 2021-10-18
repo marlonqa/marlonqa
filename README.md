@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marlonqa
+- 👀 I’m interested in Software Testing, Automation in Testing and DevOps.
+- 🌱 I’m currently learning about Software Engineering
+- 💞️ I’m looking to collaborate on building reliable softwares
+- 📫 How to reach me: mass@cesar.org.br
